@@ -1,6 +1,6 @@
-This is a simple clone of the classic Super Mario game built using [Pygame](https://www.pygame.org/). It is a 2D platformer game where the player controls Mario as he travels through the Mushroom Kingdom to rescue Princess Peach from the villainous Bowser.
+This is a simple  classic Super Mario game built using [Pygame](https://www.pygame.org/). It is a 2D platformer game where the player controls Mario as he travels through the Mushroom Kingdom to rescue Princess Peach from the villainous Bowser.
 
-![Gameplay screenshot](screenshot.png)
+![Gameplay screenshot](Mario 01-03-2024 16_05_42.png)
 
 ## Features
 
